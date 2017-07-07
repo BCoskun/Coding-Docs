@@ -1,4 +1,4 @@
-# This document related to IDE, Compilers and low level code related codes. 
+# This document related to IDE, Compilers and low level codes related to IDEs and dev tools. 
 
 
 ## If you want to add coding functionality in your tools you can check it out Microsoft Monaco Editor. 
